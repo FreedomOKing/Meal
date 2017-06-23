@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在载入...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">上拉载入更多</string>
+    <string name="xlistview_footer_hint_empty">没有更多内容</string>
+    <string name="xlistview_footer_hint_ready">松开马上刷新</string>
+    
+    <string name="pull_to_refresh_pull_label">下拉刷新</string>
+    <string name="pull_to_refresh_release_label">松手马上刷新</string>
+    <string name="pull_to_refresh_refreshing_label">刷新中...</string>
+    <string name="pull_to_refresh_loading_label">加载中...</string>
+    <string name="pull_to_refresh_click_label">点击加载更多</string>
+    <string name="pull_to_refresh_more_label">加载更多</string>
+    <string name="pull_to_refresh_not_moredata_label">没有更多数据</string>
+    <string name="pull_to_refresh_tap_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_update">最近更新：</string>
+    <string name="msg_not_new_data">没有新数据</string>
+    <string name="msg_get_failure">获取失败</string>
+    <string name="msg_network_exception">网络异常</string>
+    <string name="msg_not_match_data">没有匹配数据</string>
+    <string name="msg_not_data">没有更多数据</string>
+
+</resources>
